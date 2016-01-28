@@ -1,0 +1,5 @@
+[run]
+source = nullnude
+
+[report]
+omit = */tests/*
